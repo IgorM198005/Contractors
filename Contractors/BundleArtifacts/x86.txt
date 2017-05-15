@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Julia\Documents\Visual Studio 2015\Projects\Contractors\Contractors\bin\x86\Release\Contractors_1.0.12.0_x86.appx
+SymbolPackage=C:\Users\Julia\Documents\Visual Studio 2015\Projects\Contractors\Contractors\AppPackages\Contractors_1.0.12.0_Test\Contractors_1.0.12.0_x86.appxsym
